@@ -1,4 +1,4 @@
-module github.com/johnaclufi/go-adyen-ces
+module github.com/johnaclufi/golangadyen
 
 go 1.13
 

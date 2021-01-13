@@ -62,7 +62,7 @@ func NewAdYen(publicKey string) *Adyen {
     yen := &Adyen{}
     yen.rsa = NewRsa()
     yen.prefix = "adyenjs_"
-    yen.version = "0_1_21"
+    yen.version = "0_1_18
     yen.aesKey = make([]byte, 32)
     yen._tagSize = 8
     yen._nonceSize = 12

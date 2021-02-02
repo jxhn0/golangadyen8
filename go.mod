@@ -1,4 +1,4 @@
-module github.com/johnaclufi/golangadyen3
+module github.com/jxhn0/golangadyen4
 
 go 1.13
 

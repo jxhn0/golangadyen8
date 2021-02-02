@@ -1,4 +1,4 @@
-module github.com/jxhn0/golangadyen4
+module github.com/jxhn0/golangadyen6
 
 go 1.13
 
